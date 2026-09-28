@@ -10,6 +10,10 @@
     width="100%"
   />
 </p>
+<img
+  src="https://img.shields.io/badge/View%20All%20Repositories-%E2%86%92-6d28d9?style=for-the-badge&logo=github&logoColor=white"
+  alt="View All Repositories"
+/>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
