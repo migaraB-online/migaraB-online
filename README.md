@@ -10,6 +10,7 @@
     width="100%"
   />
 </p>
+<img src="https://raw.githubusercontent.com/migaraB-online/migaraB-online/main/space-header.svg" width="100%">
 
 
 <!-- TYPING ANIMATION -->
