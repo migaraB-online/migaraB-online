@@ -10,15 +10,6 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://github.com/migaraB-online">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B+I'm+Migara+Basuru;BSc+(Hons)+in+Information+Technology+%F0%9F%8E%93;Undergraduate+at+SLIIT+%F0%9F%87%B1%F0%9F%87%B0;Learning%2C+Building+%26+Sharing+Ideas+in+Tech+%F0%9F%9A%80;Java+Developer+in+the+making+%E2%98%95"
-      alt="Typing animation"
-    />
-  </a>
-</p>
-
 
 <!-- TYPING ANIMATION -->
 <p align="center">
