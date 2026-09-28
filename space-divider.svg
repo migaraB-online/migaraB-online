@@ -1,1 +1,141 @@
+<svg width="1600" height="100"
+     viewBox="0 0 1600 100"
+     xmlns="http://www.w3.org/2000/svg">
 
+  <defs>
+
+    <linearGradient id="line"
+                    x1="0"
+                    y1="0"
+                    x2="1"
+                    y2="0">
+
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="30%" stop-color="#06b6d4"/>
+      <stop offset="50%" stop-color="#7df9ff"/>
+      <stop offset="70%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#020617"/>
+
+    </linearGradient>
+
+    <style>
+
+      .star {
+        animation: blink 2s infinite alternate;
+      }
+
+      .meteor {
+        animation: meteor 5s linear infinite;
+      }
+
+      @keyframes blink {
+        from { opacity: 0.2; }
+        to { opacity: 1; }
+      }
+
+      @keyframes meteor {
+        0% {
+          transform: translateX(-300px);
+          opacity: 0;
+        }
+
+        15% {
+          opacity: 1;
+        }
+
+        70% {
+          opacity: 1;
+        }
+
+        100% {
+          transform: translateX(1700px);
+          opacity: 0;
+        }
+      }
+
+    </style>
+
+  </defs>
+
+  <!-- SPACE -->
+  <rect width="1600" height="100"
+        fill="#020617"/>
+
+  <!-- STARS -->
+
+  <g fill="#ffffff">
+
+    <circle class="star" cx="100" cy="25" r="1.5"/>
+    <circle class="star" cx="210" cy="70" r="1"/>
+    <circle class="star" cx="350" cy="35" r="1.5"/>
+    <circle class="star" cx="480" cy="75" r="1"/>
+    <circle class="star" cx="620" cy="25" r="1.5"/>
+    <circle class="star" cx="740" cy="65" r="1"/>
+    <circle class="star" cx="880" cy="30" r="1.5"/>
+    <circle class="star" cx="1010" cy="75" r="1"/>
+    <circle class="star" cx="1150" cy="25" r="1.5"/>
+    <circle class="star" cx="1290" cy="70" r="1"/>
+    <circle class="star" cx="1420" cy="30" r="1.5"/>
+    <circle class="star" cx="1530" cy="75" r="1"/>
+
+  </g>
+
+  <!-- MAIN SPACE LINE -->
+
+  <line
+    x1="0"
+    y1="50"
+    x2="1600"
+    y2="50"
+    stroke="url(#line)"
+    stroke-width="2"
+    opacity="0.7"
+  />
+
+  <!-- METEOR -->
+
+  <g class="meteor">
+
+    <line
+      x1="0"
+      y1="20"
+      x2="100"
+      y2="20"
+      stroke="#7df9ff"
+      stroke-width="2"
+      opacity="0.6"
+    />
+
+    <circle
+      cx="100"
+      cy="20"
+      r="3"
+      fill="#ffffff"
+    />
+
+  </g>
+
+  <!-- CENTER ORBIT -->
+
+  <ellipse
+    cx="800"
+    cy="50"
+    rx="120"
+    ry="25"
+    fill="none"
+    stroke="#7df9ff"
+    stroke-width="1"
+    opacity="0.2"
+  />
+
+  <!-- CENTER STAR -->
+
+  <circle
+    cx="800"
+    cy="50"
+    r="5"
+    fill="#7df9ff"
+    opacity="0.9"
+  />
+
+</svg>
