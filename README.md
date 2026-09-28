@@ -20,6 +20,17 @@
     />
   </a>
 </p>
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=migaraB-online&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Migara's GitHub Stats" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migaraB-online&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</p> <p align="center">
+
+<img src="https://streak-stats.demolab.com?user=migaraB-online&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</p> <p align="center"> <img src="https://raw.githubusercontent.com/migaraB-online/migaraB-online/main/space-divider.svg" width="100%" alt="Space Divider" /> </p> <!-- ========================================================= --> <!-- 🎯 2026 MISSION --> <!-- ========================================================= -
 
 <!-- PROFILE BADGES -->
 <p align="center">
