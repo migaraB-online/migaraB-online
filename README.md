@@ -55,17 +55,21 @@
 <table>
   <tr>
     <td>
-      <h3>💡 <a href="https://github.com/migaraB-online/PROJECT-REPO-NAME">Project Name</a></h3>
-      <p>Project eka mokakda kiyala line 1-2k liyanna. (e.g. A web app that helps students manage their daily tasks.)</p>
-      <b>✨ Features:</b>
+      <h3>🚗 RideLink — Ride-Hailing Microservices Platform</h3>
+      <p>A microservices-based ride-hailing system built as a SLIIT IT3130 group project. I own the <b>Driver &amp; Vehicle Service</b>, which manages drivers, vehicles and availability.</p>
+      <b>✨ My contributions:</b>
       <ul>
-        <li>Feature 1</li>
-        <li>Feature 2</li>
-        <li>Feature 3</li>
+        <li>👤 Driver profile management</li>
+        <li>🚘 Vehicle registration and management</li>
+        <li>🟢 Driver availability tracking</li>
+        <li>📍 Eligible driver matching using Haversine distance filter</li>
+        <li>🔐 Driver service security</li>
       </ul>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Microservices-blueviolet?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Team%20Project-SLIIT%20IT3130-0e75b6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Status-In%20Progress-FFA500?style=flat-square"/>
     </td>
   </tr>
 </table>
