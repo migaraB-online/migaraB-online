@@ -1,16 +1,21 @@
 <!-- HEADER (twinkling stars, dark space gradient) --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:1b0f45,100:0c1a52&height=230&section=header&text=Migara%20Basuru&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=%F0%9F%9B%B8%20IT%20Undergraduate%20%E2%80%A2%20SLIIT%20%F0%9F%AA%90&descSize=20&descColor=7DF9FF&descAlignY=60" width="100%" alt="Migara Basuru"/> </p> <!-- TYPING ANIMATION (moving letters) --> <p align="center"> <a href="https://github.com/migaraB-online"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=650&height=50&lines=Hi+%F0%9F%91%8B+I'm+Migara+Basuru;BSc+(Hons)+in+Information+Technology+%F0%9F%8E%93;Undergraduate+at+SLIIT+%F0%9F%87%B1%F0%9F%87%B0;Learning,+Building+%26+Sharing+Ideas+in+Tech+%F0%9F%9A%80;Java+Developer+in+the+making+%E2%98%95" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=migaraB-online&label=Profile%20Views&color=6d28d9&style=for-the-badge" alt="views"/> <img src="https://img.shields.io/badge/SLIIT-Information%20Technology-6d28d9?style=for-the-badge&logo=googlescholar&logoColor=white" alt="SLIIT"/> <img src="https://img.shields.io/badge/Location-Tangalle,%20Sri%20Lanka-06b6d4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/> </p> <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:06b6d4,100:7c3aed&height=3" width="100%" alt=""/></p>
-🌌 About Me
-text
-🎓 Studying            → BSc (Hons) in Information Technology @ SLIIT
-💻 Building            → Full-Stack Web & Mobile Applications
-🛠️ Working With        → Java, Python, React, React Native, Node.js, MySQL & MongoDB
-🚀 Experienced In      → Software Development, REST APIs, Database Systems & AI/ML
-👨‍💼 Leadership          → Group Leader & Full-Stack Developer in University Projects
-💡 Interested In       → Software Engineering, Project Management, Problem Solving & Real-World Applications
-🌱 Currently Improving → Full-Stack Development, AI/ML & Technical Project Management
-📍 From                → Tangalle, Sri Lanka 🇱🇰
+## 🌌 About Me
 
-✨ "Learning, building, and sharing ideas in tech."
+| 🛸 Mission Profile | Details |
+|:--|:--|
+| 🎓 **Studying** | BSc (Hons) in Information Technology @ **SLIIT** |
+| 💻 **Building** | Full-Stack Web & Mobile Applications |
+| 🛠️ **Tech Stack** | `Java` · `Python` · `React` · `React Native` · `Node.js` · `Express.js` · `MySQL` · `MongoDB` |
+| 🚀 **Experienced In** | REST APIs · JWT Authentication · Database Systems · Microservices · AI/ML Applications |
+| 📱 **Projects** | Tourism & Hotel Management · Ride-Hailing Microservices · AI/ML · Java Applications |
+| 👨‍💼 **Leadership** | University Project Leadership · Scout Leadership · Media & IT Activities |
+| 📊 **Project Management** | Project Planning · Scope & Schedule Management · Team Collaboration |
+| 💼 **Industry Experience** | Corporate Trainee / Computer Operator @ **Sri Lanka Telecom – Mobitel** |
+| 🌱 **Currently Improving** | Full-Stack Development · Microservices · AI/ML · Software Engineering |
+| 💡 **Interested In** | Software Engineering · Real-World Applications · Problem Solving · Project Management |
+| 📍 **Based In** | Tangalle, Sri Lanka 🇱🇰 |
+
+> ✨ *"Learning, building, leading, and turning ideas into real-world technology."*
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:06b6d4,100:7c3aed&height=3" width="100%" alt=""/></p>
 🪐 Tech Stack
